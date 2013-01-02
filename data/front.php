@@ -1,0 +1,5 @@
+<?php
+
+$hej = "hellooo";
+
+?>
